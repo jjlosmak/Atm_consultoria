@@ -1,19 +1,25 @@
-# click_counter
+Flutter: ATM_CONSULTORIA
 
-A new Flutter project created with https://flutlab.io
+Aplicativo voltado para os estudos iniciais de aplicações multitelas. O aplicativo utiliza conceitos de navegação, onde o usuário pode navegar nas opções: Sobre a Empresa, Serviços, Clientes e Contatos.
 
-## Getting Started
+Projeto desenvolvido na aplicação: https://flutlab.io
 
-This project is a starting point for a Flutter application.
+## TELA INICIAL
 
-A few resources to get you started if this is your first Flutter project:
+![Atm_consultoria](https://user-images.githubusercontent.com/85973612/173836991-2f805f88-a65d-49ab-a8e0-d43d3e22f614.png)
+
+## Começando
+
+Este projeto é um ponto de partida para uma aplicação Flutter.
+
+Alguns recursos para você começar se este for seu primeiro projeto Flutter:
 
 - https://flutter.dev/docs/get-started/codelab
 - https://flutter.dev/docs/cookbook
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para obter ajuda para começar a usar o Flutter, consulte nosso
+https://flutter.dev/docs, que oferece tutoriais,
+exemplos, orientação sobre desenvolvimento móvel e uma referência completa de API.
 
 ## Getting Started: FlutLab - Flutter Online IDE
 
